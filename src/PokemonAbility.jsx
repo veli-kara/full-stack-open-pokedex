@@ -1,5 +1,5 @@
 import React from 'react'
-//test kommentar
+
 const PokemonAbility = ({ abilityName }) => (
   <div className="pokemon-ability">
     <div className="pokemon-ability-type">Hidden ability</div>
